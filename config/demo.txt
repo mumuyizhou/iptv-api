@@ -17,63 +17,159 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
+CCTV-4K
 CETV-1
-CETV-2
-CETV-3
-CETV-4
+CGTN
+CGTN纪录
+CGTN法语
+CGTN西语
+CGTN阿语
+CGTN俄语
+
+📺4K频道,#genre#
+CCTV4K
+北京卫视4K
+东方卫视4K
+湖南卫视4K
+浙江卫视4K
+江苏卫视4K
+广东卫视4K
+深圳卫视4K
+山东卫视4K
+四川卫视4K
+河北4K
+苏州4K
+南国都市4K
+北京纪实科教8K
 
 📡卫视频道,#genre#
-广东卫视
-香港卫视
-浙江卫视
 湖南卫视
-北京卫视
-湖北卫视
-黑龙江卫视
-安徽卫视
-重庆卫视
+浙江卫视
 东方卫视
-东南卫视
-甘肃卫视
-广西卫视
-贵州卫视
-海南卫视
+江苏卫视
+北京卫视
+广东卫视
+深圳卫视
+山东卫视
+四川卫视
+重庆卫视
+天津卫视
 河北卫视
 河南卫视
-吉林卫视
-江苏卫视
+湖北卫视
+安徽卫视
 江西卫视
 辽宁卫视
+吉林卫视
+黑龙江卫视
 内蒙古卫视
-宁夏卫视
-青海卫视
-山东卫视
 山西卫视
 陕西卫视
-四川卫视
-深圳卫视
-三沙卫视
-天津卫视
-西藏卫视
+甘肃卫视
+青海卫视
+宁夏卫视
 新疆卫视
+西藏卫视
 云南卫视
+贵州卫视
+广西卫视
+福建海峡卫视
+海南卫视
+东南卫视
+三沙卫视
+大湾区卫视
+上海卫视
+澳门卫视
+香港卫视
 
 ☘️广东频道,#genre#
 广东珠江
 广东体育
 广东新闻
-广东卫视
 广东民生
-大湾区卫视
 广州综合
 广州影视
 广州竞赛
-江门综合
-江门侨乡生活
-佛山综合
-深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
+
+🍊湖南频道,#genre#
+湖南都市
+湖南经视
+湖南娱乐
+湖南电视剧
+金鹰卡通
+金鹰纪实
+长沙新闻
+
+🦅凤凰系,#genre#
+凤凰卫视
+凤凰中文
+凤凰资讯
+凤凰香港
+
+🗞️国际新闻,#genre#
+BBC News
+CNN
+Al Jazeera
+Al Jazeera English
+France 24
+DW English
+NHK World-Japan
+Sky News
+euronews
+CNA
+Arirang TV
+Bloomberg TV
+CNBC
+Al Arabiya
+CGTN Documentary
+
+🌍纪录频道,#genre#
+BBC Earth
+National Geographic
+Discovery
+Discovery Science
+Animal Planet
+History
+Curiosity
+Love Nature
+Travelxp
+
+⚽体育频道,#genre#
+Red Bull TV
+beIN SPORTS XTRA
+DAZN 1
+ESPN
+CBS Sports
+
+🎬电影剧集,#genre#
+HBO
+AMC
+AXN
+Paramount Network
+BBC Drama
+Pluto TV Comedy
+Pluto TV True Crime
+Pluto TV Horror
+Pluto TV Movies
+
+🧒少儿频道,#genre#
+Disney Channel
+Cartoon Network
+CBBC
+BabyTV
+
+🍳生活美食,#genre#
+Food Network
+Tastemade
+Gusto TV
+Fashion TV
+HGTV
+TLC
+BBC Home & Garden
+
+🎵音乐频道,#genre#
+MTV Live
+Stingray
+
+🔞成人频道,#genre#
+Retroclub
